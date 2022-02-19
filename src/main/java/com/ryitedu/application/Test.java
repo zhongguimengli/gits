@@ -10,5 +10,6 @@ public class Test {
         System.out.println("master test");
         System.out.println("hot test");
         System.out.println("push test");
+        System.out.println("开始拉取最新的数据来源");
     }
 }
