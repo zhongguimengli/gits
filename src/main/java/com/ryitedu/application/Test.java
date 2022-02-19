@@ -7,6 +7,6 @@ public class Test {
         for (int a = 0; a < 100; a++){
             System.out.println(a);
         }
-
+        System.out.println("hot test");
     }
 }
